@@ -1,0 +1,2 @@
+git bash {argument}
+git stash {file1,file2}
